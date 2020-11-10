@@ -1,0 +1,35 @@
+body{
+    margin-top: 200px;
+}
+
+h1{
+    font-family: 'Henny Penny', cursive;
+    text-align: center;
+
+}
+
+button{
+    padding: 15px;
+    width: 100%;
+
+    background: #f9e8c4;
+
+    border: none;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
+button:hover{
+    background: #f94;
+}
+
+#resultado{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    
+    text-align: center;
+
+}
+
+
+
